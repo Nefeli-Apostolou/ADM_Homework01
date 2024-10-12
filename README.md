@@ -6,7 +6,7 @@ This repository contains solutions for various HackerRank exercises, including c
 
 ## Repository Contents
 
-- **codingHW01 (1).ipynb**: Jupyter notebook with solutions to the HackerRank challenges.
+- **codingHW01 .ipynb**: Jupyter notebook with solutions to the HackerRank challenges.
 - **submissions.pdf**: A PDF file containing all my submissions.
 
 
